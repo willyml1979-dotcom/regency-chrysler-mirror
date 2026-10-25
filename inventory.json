@@ -1,6 +1,6 @@
 {
   "dealership": "Regency Chrysler",
-  "generated_at": "2026-10-25T14:10:22",
+  "generated_at": "2026-10-25T15:29:41",
   "vehicle_count": 105,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -212,6 +212,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 RAM 1500 Big Horn  - Aluminum Wheels -  Fog Lamps",
+      "vin": "1C6SRFFT5NN476393",
+      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/97fb5d725ccd.html",
+      "year": 2022,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used"
+    },
+    {
       "name": "2023 Jeep Grand Cherokee 4xe Base  - Hybrid -  Heated Seats",
       "vin": "1C4RJYB67PC600611",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/4a1068c450d4.html",
@@ -267,14 +276,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Wagoneer S Launch Edition  -  Fast Charging",
+      "name": "2024 Jeep Wagoneer S Launch Edition  - UConnect 5 NAV",
       "vin": "3C4RJNAK1RT177206",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/4e822ee43c21.html",
       "year": 2024,
       "make": "Jeep",
       "model": "Wagoneer S",
       "condition": "used",
-      "price": 56900.0,
+      "price": 56990.0,
       "price_currency": "CAD"
     },
     {
@@ -326,17 +335,6 @@
       "model": "1500",
       "condition": "used",
       "price": 63998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM 3500 Crew Cab Big Horn  - Aluminum Wheels -  Tow Package",
-      "vin": "3C63R3DL5RG295086",
-      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/f48a58dc34b3.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 74998.0,
       "price_currency": "CAD"
     },
     {
