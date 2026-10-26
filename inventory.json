@@ -1,6 +1,6 @@
 {
   "dealership": "Regency Chrysler",
-  "generated_at": "2026-10-26T00:59:18",
+  "generated_at": "2026-10-26T08:24:42",
   "vehicle_count": 104,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -847,7 +847,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 92595.0,
+      "price": 95195.0,
       "price_currency": "CAD"
     },
     {
@@ -862,14 +862,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie 4x4 Crew Cab 6'4  Box",
+      "name": "2026 RAM 3500 Laramie  - Navigation -  Heated Seats",
       "vin": "3C63R3EL3TG314188",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/5ea59575e97d.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 106905.0,
+      "price": 108505.0,
       "price_currency": "CAD"
     },
     {
@@ -935,7 +935,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "new",
-      "price": 61180.0,
+      "price": 61230.0,
       "price_currency": "CAD"
     },
     {
@@ -946,7 +946,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "new",
-      "price": 74875.0,
+      "price": 75425.0,
       "price_currency": "CAD"
     },
     {
@@ -1089,7 +1089,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 101965.0,
+      "price": 102265.0,
       "price_currency": "CAD"
     },
     {
