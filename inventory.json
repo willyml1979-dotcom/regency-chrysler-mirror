@@ -1,6 +1,6 @@
 {
   "dealership": "Regency Chrysler",
-  "generated_at": "2026-10-26T08:24:42",
+  "generated_at": "2026-10-26T09:26:47",
   "vehicle_count": 104,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -316,7 +316,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 RAM 1500 Classic Crew Cab Tradesman  - Low Mileage",
+      "name": "2024 RAM 1500 Classic Crew Cab Tradesman  -  - Cloth Seats",
       "vin": "1C6RR7KT1RS195967",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/54fea3be09e4.html",
       "year": 2024,
