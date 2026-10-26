@@ -1,7 +1,7 @@
 {
   "dealership": "Regency Chrysler",
-  "generated_at": "2026-10-25T23:49:02",
-  "vehicle_count": 105,
+  "generated_at": "2026-10-26T00:59:18",
+  "vehicle_count": 104,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -146,7 +146,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 34900.0,
+      "price": 34990.0,
       "price_currency": "CAD"
     },
     {
@@ -324,17 +324,6 @@
       "model": "1500 Classic",
       "condition": "used",
       "price": 48990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM 1500 Laramie  - Cooled Seats -  Navigation",
-      "vin": "1C6SRFRT9RN123964",
-      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/0be4cfe8a869.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 63998.0,
       "price_currency": "CAD"
     },
     {
