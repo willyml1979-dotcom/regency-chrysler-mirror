@@ -7,7 +7,7 @@ Regency Chrysler is a  dealership in Quesnel. This site is an AI-readable mirror
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/ and https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/ (about 100 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/ and https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/ (about 106 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/regency-chrysler-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/regency-chrysler-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/regency-chrysler-mirror/llms.txt
