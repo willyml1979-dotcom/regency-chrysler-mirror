@@ -1,7 +1,7 @@
 {
   "dealership": "Regency Chrysler",
-  "generated_at": "2026-10-26T09:26:47",
-  "vehicle_count": 104,
+  "generated_at": "2026-11-17T09:59:25",
+  "vehicle_count": 100,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -336,28 +336,6 @@
       "condition": "used"
     },
     {
-      "name": "2025 Jeep Grand Cherokee Laredo  - Heated Seats",
-      "vin": "1C4RJHAG8S8786147",
-      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/9140862a16fb.html",
-      "year": 2025,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "new",
-      "price": 55610.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chrysler Pacifica Select AWD  Select",
-      "vin": "2C4RC3BG0TR219478",
-      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/8c34927abd2c.html",
-      "year": 2026,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 57890.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Dodge Durango GT HEMI V8",
       "vin": "1C4SDJCT7TC161165",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/5218519923d9.html",
@@ -468,17 +446,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Cherokee Limited  - Heated Seats -  Remote Start",
-      "vin": "3C4PJMB2XTT206211",
-      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/05d352c2c901.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "new",
-      "price": 57975.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Compass Sport  - Heated Seats -  LED Lights",
       "vin": "3C4NJDANXTT269540",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/68a975ca6de2.html",
@@ -487,6 +454,28 @@
       "model": "Compass",
       "condition": "new",
       "price": 35090.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass North  -  Remote Start",
+      "vin": "3C4NJDBN5TT278158",
+      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/52ec5dd98467.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 42085.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Jeep Compass Trailhawk  -  Leather Seats - $327 B/W",
+      "vin": "3C4NJDDN9TT212774",
+      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/97f0c7cb64b7.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 47675.0,
       "price_currency": "CAD"
     },
     {
@@ -633,17 +622,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler Sahara  - HD Suspension -  Targa Sunroof",
-      "vin": "1C4PJXEG8TW316693",
-      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/ac2a683cfbf1.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 66790.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Jeep Wrangler Sport  - Tow Hooks -  Wi-Fi Hotspot - $323 B/W",
       "vin": "1C4PJXAN9TW341221",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/700fedc8842a.html",
@@ -671,7 +649,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 83110.0,
+      "price": 85560.0,
       "price_currency": "CAD"
     },
     {
@@ -682,29 +660,29 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 88150.0,
+      "price": 87450.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Sport  - Navigation -  Apple CarPlay - $621 B/W",
+      "name": "2026 RAM 1500 Sport  - Navigation -  Apple CarPlay - $587 B/W",
       "vin": "1C6SRFVT5TN332714",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/a71bf433664e.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 83665.0,
+      "price": 85465.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Sport  - Navigation -  Apple CarPlay - $621 B/W",
+      "name": "2026 RAM 1500 Sport  - Navigation -  Apple CarPlay - $587 B/W",
       "vin": "1C6SRFVT1TN332709",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/267c757004b9.html",
       "year": 2026,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 83665.0,
+      "price": 85465.0,
       "price_currency": "CAD"
     },
     {
@@ -715,7 +693,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 82075.0,
+      "price": 83075.0,
       "price_currency": "CAD"
     },
     {
@@ -840,17 +818,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Big Horn  - Power Mirrors -  ParkSense - $649 B/W",
-      "vin": "3C63R3HL0TG244189",
-      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/272184dfcc59.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 95195.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 RAM 3500 Big Horn  - Power Mirrors -  ParkSense",
       "vin": "3C63R3DL7TG252893",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/d3cb01fa5077.html",
@@ -870,17 +837,6 @@
       "model": "3500",
       "condition": "new",
       "price": 108505.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 RAM 3500 Tradesman  -  Mobile Hotspot",
-      "vin": "3C63R3GL0TG350238",
-      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/37c2b87b4d3d.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 84070.0,
       "price_currency": "CAD"
     },
     {
@@ -906,17 +862,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Big Horn  - Power Mirrors -  ParkSense - $630 B/W",
-      "vin": "3C63R3DL3TG331090",
-      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/9ee1ecc5dd73.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 91455.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Chrysler Pacifica Select",
       "vin": "2C4RC1BG5VR618782",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/46d066cef66d.html",
@@ -928,17 +873,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chrysler Pacifica Select AWD",
-      "vin": "2C4RC3BG5VR614680",
-      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/285213b548de.html",
-      "year": 2027,
-      "make": "Chrysler",
-      "model": "Pacifica",
-      "condition": "new",
-      "price": 61230.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Dodge Durango - $525 B/W",
       "vin": "1C4RDJDGXVC556282",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/95b3b115f3a8.html",
@@ -947,6 +881,17 @@
       "model": "Durango",
       "condition": "new",
       "price": 75425.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Dodge Durango GT HEMI Plus",
+      "vin": "1C4SDJCT8VC578006",
+      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/0df1839a1148.html",
+      "year": 2027,
+      "make": "Dodge",
+      "model": "Durango",
+      "condition": "new",
+      "price": 78230.0,
       "price_currency": "CAD"
     },
     {
@@ -972,14 +917,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Sport 4x4 Crew Cab 6'4  Box",
+      "name": "2027 Jeep Compass North",
+      "vin": "3C4NJDBN9VT554876",
+      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/439403e03017.html",
+      "year": 2027,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 48035.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 RAM 1500 Sport",
       "vin": "1C6SRFTP5VN593060",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/347f5daae338.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 96145.0,
+      "price": 94495.0,
       "price_currency": "CAD"
     },
     {
@@ -990,18 +946,18 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 75770.0,
+      "price": 75670.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Express 4x4 Crew Cab 6'4  Box",
+      "name": "2027 RAM 1500 Express",
       "vin": "1C6SRFNP6VN598443",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/c965e99ce653.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 75465.0,
+      "price": 75415.0,
       "price_currency": "CAD"
     },
     {
@@ -1012,29 +968,29 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 69440.0,
+      "price": 69390.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Big Horn 4x4 Crew Cab 5'7  Box",
+      "name": "2027 RAM 1500 Big Horn",
       "vin": "3C6SRFFP0V4511077",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/3cc472f39d15.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 75175.0,
+      "price": 73475.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 1500 Big Horn 4x4 Crew Cab 5'7  Box",
+      "name": "2027 RAM 1500 Big Horn",
       "vin": "3C6SRFFP2V4511078",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/cf548fddd89e.html",
       "year": 2027,
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 75870.0,
+      "price": 74220.0,
       "price_currency": "CAD"
     },
     {
