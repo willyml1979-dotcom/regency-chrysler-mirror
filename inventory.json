@@ -1,7 +1,7 @@
 {
   "dealership": "Regency Chrysler",
-  "generated_at": "2026-11-18T01:05:09",
-  "vehicle_count": 106,
+  "generated_at": "2026-11-18T02:24:52",
+  "vehicle_count": 107,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -115,6 +115,15 @@
       "condition": "used"
     },
     {
+      "name": "2022 Chrysler Pacifica Touring AWD  Touring",
+      "vin": "2C4RC3FG1NR113070",
+      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/b4917f2ca3ef.html",
+      "year": 2022,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "used"
+    },
+    {
       "name": "2022 RAM 1500 Classic Quad Cab SLT  - Aluminum Wheels -  Fog Lamps",
       "vin": "1C6RR7GT1NS237251",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/7144b53435ea.html",
@@ -184,7 +193,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 63595.0,
+      "price": 49988.0,
       "price_currency": "CAD"
     },
     {
@@ -271,7 +280,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "price": 54998.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 Kia Seltos S   - Heated Leather Seats - Sunroof",
@@ -280,7 +291,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "price": 26990.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024 Mitsubishi RVR ",
@@ -396,7 +409,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "used",
-      "price": 64998.0,
+      "price": 59988.0,
       "price_currency": "CAD"
     },
     {
