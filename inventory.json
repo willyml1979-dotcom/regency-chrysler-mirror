@@ -1,6 +1,6 @@
 {
   "dealership": "Regency Chrysler",
-  "generated_at": "2026-11-17T11:43:45",
+  "generated_at": "2026-11-18T01:05:09",
   "vehicle_count": 106,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -768,7 +768,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 86920.0,
+      "price": 88764.0,
       "price_currency": "CAD"
     },
     {
@@ -779,7 +779,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 85165.0,
+      "price": 85465.0,
       "price_currency": "CAD"
     },
     {
@@ -805,7 +805,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Rebel  -  Navigation -  Apple CarPlay",
+      "name": "2026 RAM 1500 Rebel  -  Navigation -  Apple CarPlay - $607 B/W",
       "vin": "1C6SRFLT1TN439410",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/5286532dcdb6.html",
       "year": 2026,
@@ -816,7 +816,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 1500 Rebel  -  Navigation -  Apple CarPlay",
+      "name": "2026 RAM 1500 Rebel  -  Navigation -  Apple CarPlay - $619 B/W",
       "vin": "1C6SRFLT5TN426496",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/ae793d4d1353.html",
       "year": 2026,
@@ -834,7 +834,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 84465.0,
+      "price": 82965.0,
       "price_currency": "CAD"
     },
     {
@@ -856,7 +856,7 @@
       "make": "RAM",
       "model": "1500",
       "condition": "new",
-      "price": 82670.0,
+      "price": 81170.0,
       "price_currency": "CAD"
     },
     {
@@ -882,7 +882,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Big Horn  - Power Mirrors -  ParkSense",
+      "name": "2026 RAM 3500 Big Horn  - Power Mirrors -  ParkSense - $651 B/W",
       "vin": "3C63R3DL7TG252893",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/d3cb01fa5077.html",
       "year": 2026,
@@ -970,14 +970,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Jeep Compass ",
+      "name": "2027 Jeep Compass North",
       "vin": "3C4NJDBN0VT559917",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/189e87d846df.html",
       "year": 2027,
       "make": "Jeep",
       "model": "Compass",
       "condition": "new",
-      "price": 52225.0,
+      "price": 53225.0,
       "price_currency": "CAD"
     },
     {
@@ -1091,14 +1091,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 3500 Tradesman 4x4 Crew Cab 8' Box",
+      "name": "2027 RAM 3500 Tradesman",
       "vin": "3C63RRGL9VG378559",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/e2ca39ecf65a.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 100800.0,
+      "price": 96300.0,
       "price_currency": "CAD"
     },
     {
