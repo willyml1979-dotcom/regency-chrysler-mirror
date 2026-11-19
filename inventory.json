@@ -1,6 +1,6 @@
 {
   "dealership": "Regency Chrysler",
-  "generated_at": "2026-11-18T11:17:03",
+  "generated_at": "2026-11-18T20:34:56",
   "vehicle_count": 106,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -895,7 +895,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 RAM 3500 Laramie  - Navigation -  Heated Seats",
+      "name": "2026 RAM 3500 Laramie  - Navigation -  Heated Seats - $749 B/W",
       "vin": "3C63R3EL3TG314188",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/5ea59575e97d.html",
       "year": 2026,
@@ -935,18 +935,18 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "new",
-      "price": 54490.0,
+      "price": 55490.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Dodge Durango - $525 B/W",
+      "name": "2027 Dodge Durango Base  - $506 B/W",
       "vin": "1C4RDJDGXVC556282",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/95b3b115f3a8.html",
       "year": 2027,
       "make": "Dodge",
       "model": "Durango",
       "condition": "new",
-      "price": 75425.0,
+      "price": 72925.0,
       "price_currency": "CAD"
     },
     {
@@ -1104,14 +1104,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 3500 Big Horn 4x4 Crew Cab 8' Box",
+      "name": "2027 RAM 3500 Big Horn",
       "vin": "3C63R3HL2VG415205",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/3659062547f0.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 102265.0,
+      "price": 97765.0,
       "price_currency": "CAD"
     },
     {
@@ -1126,14 +1126,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 RAM 3500 Tradesman 4x4 Crew Cab 8' Box",
+      "name": "2027 RAM 3500 Tradesman",
       "vin": "3C63R3GL7VG415928",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/new/387b86d98f38.html",
       "year": 2027,
       "make": "RAM",
       "model": "3500",
       "condition": "new",
-      "price": 96375.0,
+      "price": 91875.0,
       "price_currency": "CAD"
     },
     {
