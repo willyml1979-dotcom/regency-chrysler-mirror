@@ -1,6 +1,6 @@
 # Regency Chrysler
 
- dealership in Quesnel. AI-readable inventory mirror, about 106 vehicles.
+ dealership in Quesnel. AI-readable inventory mirror, about 108 vehicles.
 
 - Official website: https://www.regencychrysler.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/

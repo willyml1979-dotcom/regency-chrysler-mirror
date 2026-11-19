@@ -1,7 +1,7 @@
 {
   "dealership": "Regency Chrysler",
-  "generated_at": "2026-11-18T20:34:56",
-  "vehicle_count": 106,
+  "generated_at": "2026-11-18T21:46:11",
+  "vehicle_count": 108,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -24,6 +24,15 @@
       "condition": "used",
       "price": 6990.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Dodge Grand Caravan Passenger Van R/T  - Bluetooth -  Leather Seats",
+      "vin": "2C4RDGEG4GR258094",
+      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/eb2067f40165.html",
+      "year": 2016,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "condition": "used"
     },
     {
       "name": "2017 Dodge Grand Caravan Passenger Van SXT   - Stow n' Go - Rear Seat DVD",
@@ -115,7 +124,7 @@
       "condition": "used"
     },
     {
-      "name": "2022 Chrysler Pacifica Touring AWD  Touring",
+      "name": "2022 Chrysler Pacifica Touring  Touring",
       "vin": "2C4RC3FG1NR113070",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/b4917f2ca3ef.html",
       "year": 2022,
@@ -700,6 +709,17 @@
       "name": "2026 RAM 3500 Big Horn  - Power Mirrors -  ParkSense",
       "vin": "3C63R3HL5TG216310",
       "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/e3e3f9f87b4a.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "used",
+      "price": 74900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 RAM 3500 Big Horn  - Power Mirrors -  ParkSense",
+      "vin": "3C63R3HL4TG241988",
+      "url": "https://willyml1979-dotcom.github.io/regency-chrysler-mirror/used/cadebd273a91.html",
       "year": 2026,
       "make": "RAM",
       "model": "3500",
